@@ -1,0 +1,16 @@
+{
+    "name": "randi/uaspwl_1477",
+    "description": "tugas uas pwl",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "it-kelasterbuka",
+            "email": "randynvs1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "mpdf/mpdf": "^8.2"
+    }
+}
